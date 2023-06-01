@@ -33,7 +33,7 @@ const fizzbuzz = arr => {
       copy.push(i)
     } 
   }
-//   console.log(copy)
+  console.log(copy)
   return copy
 }
 

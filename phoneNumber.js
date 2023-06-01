@@ -1,4 +1,4 @@
-// easy way to fo it is 
+// easy way to do it is 
 const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
 const array2 = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 const array3 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
