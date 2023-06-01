@@ -15,8 +15,6 @@ const str = '1234565'
 
 // reverseNumber(str)
 
-// const str = '135246'
-
 // Or this 
 function reverseNumber(n){
   const reversedString = n
