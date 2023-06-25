@@ -7,7 +7,7 @@ function findOdd(A) {
   // check how many times a number repeats
   for(let i = 0; i<A.length; i++) {
     // if the odd object has a reference to the A array, then add 1 to its key (like: value : key or 2 : 1)
-    if(odd[A[i]]) {
+    if(odd[A[i]]) { // this is how we loop thru an object 
       odd[A[i]]++;
     // if the odd object doest have a reference to it, then create it and set it to 1
     }else{
